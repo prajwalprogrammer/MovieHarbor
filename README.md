@@ -1,34 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+MovieHarbor isn't just an IMDb clone; it's your ultimate movie companion. With its user-centric design, vast database, and interactive features, Cinemate elevates your movie-watching experience. Whether you're a cinephile, a casual viewer, or someone in search of the perfect movie night,MovieHarbor  has you covered.
 
-## Getting Started
+Langueue used : Next Js, React Js, TMDB Api
 
-First, run the development server:
+Preview Screenshots -
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+Home Page : 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![imdb home](https://github.com/prajwalprogrammer/MovieHarbor/assets/63206330/bcea498f-0cc3-4f1a-963f-e55be0cfdb3e)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Single Movie Discription : 
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![IMDB api](https://github.com/prajwalprogrammer/MovieHarbor/assets/63206330/ab7f7816-fe7d-4ed4-9531-f2e6d115cef4)
 
-## Learn More
+Top Rated Movies : 
 
-To learn more about Next.js, take a look at the following resources:
+![Top Rated Movies](https://github.com/prajwalprogrammer/MovieHarbor/assets/63206330/3767c030-4dae-44af-8d8f-f10d9b120046)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
